@@ -2,16 +2,16 @@
 
 ## Resources - Recursos
 
-- [Android Beginner Course](https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org)
-- [Cpp Beginner](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-- [Linux Server Series](https://drive.google.com/open?id=1U-Ol3nix-jTJJ35-cCXalbPK41REBw3E)
-- [Python Programming](https://drive.google.com/drive/folders/1rpYBKUQtTg2QPyGJRRxyxTVvZ--Ypeas?usp=drive_open)
-- [Android Development course](https://drive.google.com/open?id=1KHOZ7pbgUVZNwdMUss98AsJjgu0vIbsS)
-- [FreeCodeCamp- Python](https://youtu.be/rfscVS0vtbw)
-- [Java Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
-- [Unreal Engine4 Course](https://www.youtube.com/watch?v=PrcfA4WZW_o)
-- [Flutter Development Course](https://www.youtube.com/watch?v=x0uinJvhNxI)
-- [Apna College-Web Development Course - Hindi language](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
+- [Android Beginner Course]{:target="_blank"}(https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org)
+- [Cpp Beginner]{:target="_blank"}(https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+- [Linux Server Series]{:target="_blank"}(https://drive.google.com/open?id=1U-Ol3nix-jTJJ35-cCXalbPK41REBw3E)
+- [Python Programming]{:target="_blank"}(https://drive.google.com/drive/folders/1rpYBKUQtTg2QPyGJRRxyxTVvZ--Ypeas?usp=drive_open)
+- [Android Development course]{:target="_blank"}(https://drive.google.com/open?id=1KHOZ7pbgUVZNwdMUss98AsJjgu0vIbsS)
+- [FreeCodeCamp- Python]{:target="_blank"}(https://youtu.be/rfscVS0vtbw)
+- [Java Beginners]{:target="_blank"}(https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [Unreal Engine4 Course]{:target="_blank"}(https://www.youtube.com/watch?v=PrcfA4WZW_o)
+- [Flutter Development Course]{:target="_blank"}(https://www.youtube.com/watch?v=x0uinJvhNxI)
+- [Apna College-Web Development Course - Hindi language]{:target="_blank"}(https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 
 ## Contributing
 
