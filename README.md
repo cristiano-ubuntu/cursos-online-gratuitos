@@ -13,6 +13,9 @@
 - [Flutter Development Course](https://www.youtube.com/watch?v=x0uinJvhNxI)
 - [Apna College-Web Development Course - Hindi language](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 
+## Recursos - Cursos em Português
+
+- [Programação para Iniciantes](https://www.youtube.com/playlist?list=PL46DzgkNWD2GPYPiLowaM1DhFDuvsoh2k)
 ## Contributing
 
 > _NOTE:_ Check the TODO before opening issues to check if it is detected and is being worked upon.
