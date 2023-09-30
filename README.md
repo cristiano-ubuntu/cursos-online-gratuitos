@@ -1,8 +1,6 @@
 # cursos-online-gratuitos
 
-## Resources - Recursos
-
-- <a href="https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org" target="_blank">Android Beginner Course</a>
+## Resources - English courses
 
 - [Android Beginner Course](https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org)
 - [Cpp Beginner](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
