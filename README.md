@@ -16,6 +16,8 @@
 ## Recursos - Cursos em Português
 
 - [Programação para Iniciantes](https://www.youtube.com/playlist?list=PL46DzgkNWD2GPYPiLowaM1DhFDuvsoh2k)
+- [Curso de HTML e CSS](https://www.youtube.com/playlist?list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA)
+
 ## Contributing
 
 > _NOTE:_ Check the TODO before opening issues to check if it is detected and is being worked upon.
