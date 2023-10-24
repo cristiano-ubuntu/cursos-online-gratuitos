@@ -21,6 +21,7 @@
 - [Expressões Regulares em Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm1VnTa2Np5vDzCxVtyaYLMr)
 - [Curso de Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr)
 - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+- [Curso básico GNU/Linux](https://www.youtube.com/playlist?list=PLVwomQzHETUFakHw0sab-Axl47RUuZ3E8)
 
 
 ## Contributing
